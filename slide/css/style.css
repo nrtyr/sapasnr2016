@@ -1,0 +1,94 @@
+*{
+			padding: 0px;
+			margin: 0px;
+		}
+		body{
+			font-family: sans-serif;
+		}
+		img{
+			width: auto;
+			max-width: 100%;
+		}
+		.overlay{
+			position: relative;
+			background-image: url("img/banner.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
+			z-index: 1;
+		}
+		.overlay2{
+			position: relative;
+			background-image: url("img/banner2.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
+			z-index: 1;
+		}
+		.overlay3{
+			position: relative;
+			background-image: url("img/banner3.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
+			z-index: 1;
+		}
+		.overlay4{
+			position: relative;
+			background-image: url("img/banner4.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
+			z-index: 1;
+		}
+		.cycle-slideshow{
+			width: 100%;
+			max-width: 2000px;
+			display: block;
+			position: relative;
+			margin: 0px auto;
+			overflow: hidden;
+		}
+		@media screen and (max-width: 736px) {
+			.cycle-slideshow{
+			margin-top: 44px;
+			}
+		}
+		
+		.cycle-prev, .cycle-next{
+			font-size: 200%;
+			color: #189100;
+			display: block;
+			position: absolute;
+			top: 50%;
+			margin-top: -16px;
+			z-index: 9999;
+			cursor: pointer;
+		}
+		.cycle-prev{
+			left: 10%;
+		}
+		.cycle-next{
+			right: 10%;
+		}
+		.cycle-pager{
+			width: 100%;
+			position: absolute;
+			top: 10px;
+			text-align: center;
+			z-index: 1000;
+		}
+		.cycle-pager span{
+			text-indent: 100%;
+			white-space: nowrap;
+			width: 10px;
+			height: 10px;
+			display: inline-block;
+			border: 1px solid #189100;
+			-webkit-border-radius: 50%;
+			        border-radius: 50%;
+			margin: 0 10px;
+		}
+		.cycle-pager .cycle-pager-active{
+			background-color: #189100;
+		}
