@@ -11,7 +11,7 @@
 						</li>
 
 						<li><a href="#">Cultura del Agua</a></li>
-						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a></li>
+						<li><a href="#">Transparencia</a></li>
 						<li><a href="#">Contacto</a></li>
 					</ul>
 				</nav>

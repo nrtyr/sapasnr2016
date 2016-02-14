@@ -2,7 +2,7 @@
 							<div class="12u">
 							<!-- Features -->
 									<section class="box features">
-										<h2 class="major"><span>Oficinas</span></h2>
+										<h2 class="major"><span>Sapasnir Oficinas de Recaudación Municipal</span></h2>
 										<div>
 											<div class="cuadroDir">
 											<div class="cMapas">
@@ -16,7 +16,7 @@
 												<div id="map-2" class="sMapa"></div></a>
 												<h3>SAPASNIR NICOLÁS ROMERO</h3>
 															<p>
-																Av. Nicolás Romero S/N,Juárez,54400 Nicolás Romero, Méx.
+																Av. Nicolás Romero #52,Hidalgo,54400 Nicolás Romero, Méx.
 															</p>
 											</div>
 											<div class="cMapas">

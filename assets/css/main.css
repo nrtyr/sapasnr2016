@@ -1099,8 +1099,12 @@
 	h1.encaSapas{
 		font-size: 60px;
 	}
+	h2.encaSapas{
+		font-size: 25px;
+		color: #CCC;
+	}
 	p.verde{
-		font-size: 30px;
+		font-size: 20px;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2938,7 +2942,7 @@
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #a0291b;
+						background: #6fb236;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
@@ -2949,7 +2953,7 @@
 					}
 
 					#titleBar .toggle:active:before {
-						background-color: #a1cd9b;
+						background-color: #6fb236;
 					}
 
 			#navPanel {
