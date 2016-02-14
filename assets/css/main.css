@@ -1096,6 +1096,12 @@
 		text-transform: uppercase;
 		color: #6b7770;
 	}
+	h1.encaSapas{
+		font-size: 60px;
+	}
+	p.verde{
+		font-size: 30px;
+	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		text-decoration: none;
@@ -1178,7 +1184,7 @@
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #93b535;
+		color: #70b236;
 	}
 
 /* Image */
@@ -1303,7 +1309,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #93b535;
+			background: #70b236;
 		}
 
 			input[type="button"].alt:hover,
@@ -1380,7 +1386,7 @@
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #93b535;
+				background: #70b236;
 				text-align: center;
 			}
 			.periscope{
@@ -1393,7 +1399,7 @@
 				top: 13px;
 				width: 48px;
 				height: 48px;
-				background: #93b535;
+				background: #70b236;
 				background-image: url("images/sociales/periscope0.png");
 				background-position: center center;
 				background-repeat: no-repeat;
@@ -1489,7 +1495,7 @@
 			transition: background-color .2s ease-in-out;
 			display: block;
 			position: relative;
-			background: #93b535;
+			background: #70b236;
 			width: 12em;
 			height: 12em;
 			border-radius: 6em;
@@ -1716,7 +1722,7 @@
 	#main-wrapper {
 		background: #fff;
 		border-top: solid 5px #a0291b;
-		border-bottom: solid 5px #93b535;
+		border-bottom: solid 5px #70b236;
 	}
 
 /* Banner */
@@ -1795,7 +1801,7 @@
 		}
 
 			#copyright .menu li {
-				border-color: #93b535;
+				border-color: #70b236;
 				border-width: 2px;
 				line-height: 1em;
 			}
@@ -1815,6 +1821,23 @@
 			width: 100%;
 			text-align: center;
 		}
+
+		/* GPS MAPS */
+
+		.cMapas{
+			width: 350px;
+			height: 250px;
+			padding: 20px;
+			display: inline-block;
+		}
+		.sMapa{
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+		}
+		
+		/* GPS MAPS */
+		
+
 		.cuadroReg{
 			display: inline-block;
 			position: relative;
@@ -2222,7 +2245,7 @@
 
 					#header .logo p {
 						display: inline;
-						color: #93b535;
+						color: #70b236;
 					}
 
 		/* Nav */
@@ -2286,12 +2309,12 @@
 					}
 
 					#nav li:hover a, #nav li:hover span {
-						background: #93b535;
+						background: #70b236;
 						color: #fff;
 					}
 
 					#nav li.active a, #nav li.active span {
-						background: #93b535;
+						background: #70b236;
 						color: #fff;
 					}
 
@@ -2325,12 +2348,12 @@
 
 				.dropotron li:hover > a, .dropotron li:hover > span {
 					color: #fff;
-					background: #93b535;
+					background: #70b236;
 				}
 
 				.dropotron li.active > a, .dropotron li.active > span {
 					color: #fff;
-					background: #93b535;
+					background: #70b236;
 				}
 
 				.dropotron li:first-child {
@@ -2527,6 +2550,25 @@
 				font-size: 1.25em;
 			}
 		/* cuadroDir Movile*/	
+		
+		/* GPS MAPS Moviles*/
+
+		.cMapas{
+			width: 90%;
+			height: 250px;
+			padding: 20px;
+			margin: 0 1em;
+			margin-bottom: 10px;
+			display: inline-block;
+		}
+		.sMapa{
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+		}
+		
+		/* GPS MAPS Moviles*/
+
+
 		.cuadroDir{
 			margin-top: -5%;
 			text-align: center;

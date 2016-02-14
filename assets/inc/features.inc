@@ -5,26 +5,26 @@
 										<h2 class="major"><span>Oficinas</span></h2>
 										<div>
 											<div class="cuadroDir">
-											<div class="cuadroDirChico">
-												<a href="#"><img src="images/nada.png" alt="dif" class="imgDir1"></a>
-												<h3><a href="#">DIF</a></h3>
-<!-- 															<p>
-																Desarrollo Integral de la Familia
-															</p> -->
+											<div class="cMapas">
+												<div id="map-1" class="sMapa"></div></a>
+												<h3>SAPASNIR 20 DE NOVIEMBRE</h3>
+															<p>
+																Av. 20 de Nov. 4,Centro,54400 Nicolás Romero, Méx.
+															</p>
 											</div>
-											<div class="cuadroDirChico">
-												<a href="#"><img src="images/nada.png" alt="imcufide" class="imgDir2"></a>
-												<h3><a href="#">IMCUFIDE</a></h3>
-<!-- 															<p>
-																Instituto Municipal de Cultura Física y Deporte
-															</p> -->
+											<div class="cMapas">
+												<div id="map-2" class="sMapa"></div></a>
+												<h3>SAPASNIR NICOLÁS ROMERO</h3>
+															<p>
+																Av. Nicolás Romero S/N,Juárez,54400 Nicolás Romero, Méx.
+															</p>
 											</div>
-											<div class="cuadroDirChico">
-												<a href="#"><img src="images/nada.png" alt="sapasnir" class="imgDir3"></a>
-												<h3><a href="#">SAPASNIR</a></h3>
-<!-- 															<p>
-																Sistema de Agua Potable Alcantarillado y Saneamiento de Nicolás Romero
-															</p> -->
+											<div class="cMapas">
+												<div id="map-3" class="sMapa"></div></a>
+												<h3>SAPASNIR TOWN CENTER</h3>
+															<p>
+																Av. 20 de Nov. SN,Vista Hermosa,54414 Nicolás Romero, Méx.
+															</p>
 											</div>
 											
 											</div>

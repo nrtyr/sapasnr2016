@@ -57,7 +57,7 @@
 		
 		.cycle-prev, .cycle-next{
 			font-size: 200%;
-			color: #189100;
+			color: #70b236;
 			display: block;
 			position: absolute;
 			top: 50%;
@@ -84,11 +84,11 @@
 			width: 10px;
 			height: 10px;
 			display: inline-block;
-			border: 1px solid #189100;
+			border: 1px solid #70b236;
 			-webkit-border-radius: 50%;
 			        border-radius: 50%;
 			margin: 0 10px;
 		}
 		.cycle-pager .cycle-pager-active{
-			background-color: #189100;
+			background-color: #70b236;
 		}

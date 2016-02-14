@@ -45,9 +45,9 @@
 					<!-- Copyright -->
 						<div id="copyright">
 							<ul class="menu">
-								<li>&copy; Todos los derechos reservados</li><li>Creado por: <a href="#">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
+								<li>&copy; Todos los derechos reservados: SAPASNIR.MX </li><li>Creado por: <a href="#">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
 								<br>
-								<p>Av. Juarez s/n Col. Centro Nicolás Romero, Estado de México C.P. 54400 Tel: 58-71-25-00</p>
+								<p>Av. Nicolás Romero S/N, Esquina con Hermenegildo Galeana, Colonia: Centro ,C.P.: 54400 Nicolás Romero, Edo. Méx. Tel: 58-23-09-91 / 58-23-91-33</p>
 							</ul>
 						</div>
 
@@ -64,6 +64,8 @@
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 			<script type="text/javascript" src="assets/js/jquery.cycle2.js"></script>
+
+			
 			<script src="https://maps.googleapis.com/maps/api/js?language=es"></script>
 			<script type="text/javascript" src="assets/js/easymap.plugin.js"></script>
 			<script type="text/javascript" src="assets/js/script.js"></script>
