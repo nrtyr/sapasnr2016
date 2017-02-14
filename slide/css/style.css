@@ -11,7 +11,7 @@
 		}
 		.overlay{
 			position: relative;
-			background-image: url("img/banner.jpg");
+			background-image: url("img/banner1_2017.jpg");
 			background-position: center center;
 			background-repeat:  no-repeat;
 			background-size: cover;
@@ -19,7 +19,7 @@
 		}
 		.overlay2{
 			position: relative;
-			background-image: url("img/banner2.jpg");
+			background-image: url("img/banner2_2017.jpg");
 			background-position: center center;
 			background-repeat:  no-repeat;
 			background-size: cover;

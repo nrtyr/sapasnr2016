@@ -1825,6 +1825,145 @@
 			width: 100%;
 			text-align: center;
 		}
+				/* Logos NR */
+		
+		.cuadroNR{
+			width: 100%;
+			height: 150px;
+			text-align: center;
+			
+		}
+		.cuadroNRc1{
+			float: left;
+			display: inline-block;
+			width: 150px;
+			height: 150px;
+			background-image: url('images/logos/logoNR.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			margin-left: 80px;
+			
+		}
+		.cuadroNRc2{
+			margin: 40px auto;
+			display: inline-block;
+			width: 400px;
+			
+		}
+		.cuadroNRc3{
+			float: right;
+			display: inline-block;
+			width: 150px;
+			height: 150px;
+			background-image: url('images/logos/logoSAPAS.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			margin-right: 80px;
+			
+		}
+		
+
+		/* Logos NR*/
+
+		/* Cuadro Articulo */
+		
+
+		.bloqueArticulo{
+			clear: both;
+			display: block;
+			width: 90%;
+			text-align: center;
+			margin: 0 auto;
+			background-image: url('images/logos/background.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			background-attachment: fixed;
+		}
+		.pArticulo{
+			display: block;
+			margin: 0 auto;
+			text-align: left;
+			width: 78%;
+			font-weight: bold;
+		}
+		.subRojo{
+			font-size: 23px;
+			color: #93b535;
+		}
+		.pJustifi{
+			display: block;
+			margin: 0 auto;
+			width: 70%;
+			text-align : justify;
+		}
+		.liJustifi{			
+			margin: 0 auto;
+			width: 70%;
+			text-align : justify;
+
+			padding: 0px 0px 0px 80px;
+		}
+		.tablaTresC{
+			display: block;
+			margin: 0 auto;
+			width: 70%;
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+			background-color: #E6F2D6;
+		}
+		.cTab{
+			text-align: left;
+			padding: 10px 5px 10px 20px;
+		}
+		.cTab.reca{
+			font-weight: bold;
+			padding: 0px;
+			text-align: center;
+			background-color: #DAE5CB;
+		}
+		.cTab.reca.f{
+			-webkit-border-radius: 0px 0px 0px 10px;
+			        border-radius: 0px 0px 0px 10px;
+		}
+		.cTab.enca{
+			padding: 10px;
+			text-align: center;
+			font-weight: bold;
+			color: #FFF;
+			background-color: #93b535;
+		}
+		.cTab.enca.i{
+			-webkit-border-radius: 10px 0px 0px 0px;
+			        border-radius: 10px 0px 0px 0px;
+		}
+		.cTab.enca.f{
+			-webkit-border-radius: 0px 10px 0px 0px;
+			        border-radius: 0px 10px 0px 0px;
+		}
+		.cuadroArticulo{
+			display: block;
+			margin: 0px 20% 0px 20%;
+			width: 70%;
+			text-align: left;
+		}
+		.cuadroArticulo li{
+			list-style: none;
+		}
+		.fa.fa-file-pdf-o{
+			font-size: 20px;
+			margin: 0px 20px 0px 20px;
+		}
+
+		/* Cuadro Articulo */
 
 		/* GPS MAPS */
 
@@ -2569,6 +2708,101 @@
 			-webkit-border-radius: 10px;
 			        border-radius: 10px;
 		}
+		/* Logos NR */
+		
+		.cuadroNRc1{
+			display: none;
+		}
+		.cuadroNRc3{
+			display: none;
+		}
+		
+
+		/* Logos NR*/
+
+		/* Cuadro Articulo Movil */
+		
+		.cuadroDForm{
+			text-align: center;
+			margin: 80px auto;
+			height: 840px;
+		}
+		.formFame{
+			height: 100%;
+		}
+		.bloqueArticulo{
+			clear: both;
+			display: block;
+			width: 100%;
+			text-align: center;
+			margin: 0px auto;
+		}
+		.bloqueArticulo h2{
+			margin-top: 100px;
+		}
+		.pArticulo{
+			display: block;
+			margin: 0 auto;
+			text-align: left;
+			width: 78%;
+			font-weight: bold;
+		}
+		.subRojo{
+			font-size: 23px;
+			color: #93b535;
+		}
+		.pJustifi{
+			display: block;
+			margin: 0 auto;
+			width: 90%;
+			text-align : justify;
+		}
+		.liJustifi{			
+			margin: 0 auto;
+			width: 90%;
+			text-align : justify;
+
+			padding: 0px 0px 0px 80px;
+		}
+		.tablaTresC{
+			display: block;
+			margin: 0 auto;
+			width: 90%;
+			
+		}
+		.cTab{
+			display: block;
+			margin: 0 auto;
+			text-align: left;
+			padding: 10px 5px 10px 20px;
+			background-color: #E6F2D6;
+		}
+		.cTab.reca{
+			font-weight: bold;
+			padding: 0px;
+			text-align: center;
+			background-color: #DAE5CB;
+		}
+		.cTab.enca{
+			display: none;
+		}
+		
+		.cuadroArticulo{
+			display: block;
+			width: 80%;
+			padding: 10px 10px 10px 20px;
+			text-align: left;
+			margin: 0 auto;
+		}
+		.cuadroArticulo li{
+			list-style: none;
+		}
+		.fa.fa-file-pdf-o{
+			font-size: 20px;
+			margin: 0px 20px 0px 20px;
+		}
+
+		/* Cuadro Articulo Movil */
 		
 		/* GPS MAPS Moviles*/
 

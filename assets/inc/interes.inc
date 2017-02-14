@@ -19,12 +19,12 @@
 												</a>
 												</div>
 												
-												<!-- <div class="cuadroIntX">
+												<div class="cuadroIntX">
 												<a href="conac.php">
 													<div class="cuadroIntimg" id="conac2"></div>
 													<div class="cuadroInttxt"><h6>CONAC</h6></div>
 												</a>
-												</div> -->
+												</div>
 												<br>
 												<br>
 
