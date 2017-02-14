@@ -9,3 +9,6 @@ include("assets/inc/carrera.inc");
 include("assets/inc/interes.inc");
 include("assets/inc/footer.inc");
  ?>
+
+<!-- 
+ esta es otra pueba -->
